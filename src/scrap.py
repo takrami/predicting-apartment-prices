@@ -4,7 +4,7 @@ import mysql.connector
 from unidecode import unidecode
 
 # You should change this based on your config
-cnx = mysql.connector.connect(user='root', password='toor',
+cnx = mysql.connector.connect(user='root', password='',
                               host='127.0.0.1',
                               database='learn')
 
